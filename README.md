@@ -1,2 +1,2 @@
-Welcome to my humble code abode.
-Here is a page with some of my web-based projects: https://pragma-strict.github.io/ 
+Welcome to my collection of sketches and explorations in code.
+Some of my web-based projects: https://pragma-strict.github.io/ 
