@@ -1,2 +1,2 @@
 Welcome to my collection of sketches and explorations in code.
-Some of my web-based projects: https://pragma-strict.github.io/ 
+You can try with my web-based projects here: https://pragma-strict.github.io/ 
